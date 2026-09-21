@@ -7,15 +7,15 @@ A collection of Java programs demonstrating core Object-Oriented Programming (OO
 ## 📑 Program Index
 
 ### 1. Core Java & Object-Oriented Programming
-| # | File | Topic / Concept | Description |
-|---|------|-----------------|-------------|
-| 01 | [`01_variables_and_datatypes.png`](./01_variables_and_datatypes.png) | Variables & Data Types | Primitive types (`int`, `double`, `char`, `String`, `boolean`). |
-| 02 | [`02_class_and_object_basics.png`](./02_class_and_object_basics.png) | Class & Object Basics | Student class with instance variables and `displayDetails()`. |
-| 03 | [`03_parameterized_constructor.png`](./03_parameterized_constructor.png) | Parameterized Constructors | Initializing objects via constructor and invoking instance methods. |
-| 04 | [`04_constructor_overloading_and_copy.png`](./04_constructor_overloading_and_copy.png) | Constructor Types | Default, parameterized, and copy constructors with area calculation. |
-| 05 | [`05_inheritance_and_polymorphism.png`](./05_inheritance_and_polymorphism.png) | Inheritance & Overriding | Single inheritance (`Dog extends Animal`) and dynamic method dispatch. |
-| 06 | [`06_interfaces_and_multiple_inheritance.png`](./06_interfaces_and_multiple_inheritance.png) | Multiple Interfaces | Implementing `Payable` and `taxable` interfaces in `Employee`. |
-| 07 | [`07_enum_fields_and_methods.png`](./07_enum_fields_and_methods.png) | Enums with Fields & Logic | `Planet` enum with gravity constants calculating weight on planets. |
+| # | Source Code | Screenshot | Topic / Concept | Description |
+|---|-------------|------------|-----------------|-------------|
+| 01 | [`variablesdemo.java`](src/p01_variables/variablesdemo.java) | [`01_variables_and_datatypes.png`](./01_variables_and_datatypes.png) | Variables & Data Types | Primitive types (`int`, `double`, `char`, `String`, `boolean`). |
+| 02 | [`StudentDemo.java`](src/p02_class_and_object/StudentDemo.java) | [`02_class_and_object_basics.png`](./02_class_and_object_basics.png) | Class & Object Basics | Student class with instance variables and `displayDetails()`. |
+| 03 | [`demo.java`](src/p03_constructors/demo.java) | [`03_parameterized_constructor.png`](./03_parameterized_constructor.png) | Parameterized Constructors | Initializing objects via constructor and invoking instance methods. |
+| 04 | [`constructor.java`](src/p04_constructor_overloading/constructor.java) | [`04_constructor_overloading_and_copy.png`](./04_constructor_overloading_and_copy.png) | Constructor Types | Default, parameterized, and copy constructors with area calculation. |
+| 05 | [`InheritanceDemo.java`](src/p05_inheritance/InheritanceDemo.java) | [`05_inheritance_and_polymorphism.png`](./05_inheritance_and_polymorphism.png) | Inheritance & Overriding | Single inheritance (`Dog extends Animal`) and dynamic method dispatch. |
+| 06 | [`payroll.java`](src/p06_interfaces/payroll.java) | [`06_interfaces_and_multiple_inheritance.png`](./06_interfaces_and_multiple_inheritance.png) | Multiple Interfaces | Implementing `Payable` and `taxable` interfaces in `Employee`. |
+| 07 | [`PlanetProgram.java`](src/p07_enums/PlanetProgram.java) | [`07_enum_fields_and_methods.png`](./07_enum_fields_and_methods.png) | Enums with Fields & Logic | `Planet` enum with gravity constants calculating weight on planets. |
 
 ---
 
